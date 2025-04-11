@@ -8,7 +8,7 @@ A depender da resposta, o visitante é redirecionado a uma página final com uma
 
 A proposta do projeto é trazer um tema importante — o diagnóstico tardio do autismo — de forma acessível, descontraída e afetuosa, misturando narrativa interativa, humor autorreferencial e design retrô.
 
-## 🌐 Acesse o projeto online
+### 🌐 Acesse o projeto online
 
 ➡️ [https://cha-revelacao-one.vercel.app](https://cha-revelacao-one.vercel.app)
 
