@@ -1,4 +1,4 @@
-🫖 Chá Revelação — Diagnóstico de Autismo
+# 🫖 Chá Revelação 
 Aplicação interativa desenvolvida com React, HTML, CSS e JavaScript, criada para comunicar de forma leve, criativa e pessoal meu diagnóstico de autismo.
 
 💡 Sobre o Projeto
