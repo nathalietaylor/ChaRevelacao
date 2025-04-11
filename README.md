@@ -1,14 +1,14 @@
 # 🫖 Chá Revelação 
 Aplicação interativa desenvolvida com React, HTML, CSS e JavaScript, criada para comunicar de forma leve, criativa e pessoal meu diagnóstico de autismo.
 
-💡 Sobre o Projeto
+### 💡 Sobre o Projeto
 Este projeto simula um “chá revelação” com uma estética inspirada em computadores dos anos 90. A experiência começa com uma mensagem de boas-vindas, seguida de uma breve explicação sobre o processo de diagnóstico, e então convida o usuário a votar entre duas opções: estranha ou autista.
 
 A depender da resposta, o visitante é redirecionado a uma página final com uma mensagem personalizada e uma imagem, sempre mantendo o tom bem-humorado e acolhedor.
 
 A proposta do projeto é trazer um tema importante — o diagnóstico tardio do autismo — de forma acessível, descontraída e afetuosa, misturando narrativa interativa, humor autorreferencial e design retrô.
 
-✨ Tecnologias Utilizadas
+### ✨ Tecnologias Utilizadas
 React
 
 HTML5
@@ -19,7 +19,7 @@ JavaScript
 
 React Router
 
-🖼️ Estética Visual
+### 🖼️ Estética Visual
 O visual remete à estética dos computadores da década de 1990, com janelas coloridas, fontes monoespaçadas e uma paleta suave e nostálgica composta por:
 
 #CACE91 (verde pastel)
@@ -28,7 +28,7 @@ O visual remete à estética dos computadores da década de 1990, com janelas co
 
 #E0E1F6 (lavanda)
 
-📂 Estrutura do Projeto
+### 📂 Estrutura do Projeto
 bash
 Copiar
 Editar
@@ -40,7 +40,7 @@ Editar
     RespostaEstranha.jsx
   App.jsx
   index.css
-🧠 Objetivos Técnicos
+### 🧠 Objetivos Técnicos
 Este projeto demonstra:
 
 Estruturação de rotas com React Router
@@ -51,7 +51,7 @@ Criação de interfaces temáticas com CSS personalizado
 
 Desenvolvimento de uma experiência do usuário narrativa e interativa
 
-🚀 Como Executar Localmente
+### 🚀 Como Executar Localmente
 Clone o repositório:
 
 bash
