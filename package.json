@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fontsource/press-start-2p": "^5.2.5",
+    "react-router-dom": "^7.5.0"
+  }
+}
