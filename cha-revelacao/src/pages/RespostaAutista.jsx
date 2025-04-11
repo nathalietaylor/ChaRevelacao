@@ -1,16 +1,21 @@
+// src/pages/RespostaAutista.jsx
+import "../styles/Resposta.css";
+
 export default function RespostaAutista() {
   return (
-    <div className="janela">
-      <h2>🎉 Parabéns! Você é bom em identificar o óbvio!</h2>
-      <p>
-        Piada interna: "Meu cérebro pode não ser neurotípico, mas pelo menos ele
-        vem com atualizações automáticas!" 🤖
-      </p>
-      <img
-        src="/minha-foto.jpg"
-        alt="Minha foto"
-        style={{ width: "200px", marginTop: "20px" }}
-      />
+    <div className="container">
+      <div className="popup">
+        <div className="popup-header">
+          <span className="title">Revelação</span>
+        </div>
+        <div className="popup-body">
+          <p>
+            🧩 Parabéns, você é bom em identificar o óbvio! <br />
+            <br />
+            💖
+          </p>
+        </div>
+      </div>
     </div>
   );
 }

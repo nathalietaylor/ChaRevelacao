@@ -1,0 +1,62 @@
+/* src/styles/Resposta.css */
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+body {
+  margin: 0;
+  background-color: #e0e1f6;
+  font-family: "Press Start 2P", cursive;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 150px;
+}
+
+.popup {
+  border: 8px solid #cccccc;
+  box-shadow: 4px 4px 0 #999999;
+  max-width: 90vw;
+  color: #000;
+  background-color: #cccccc;
+}
+
+.popup-header {
+  height: 40px;
+  background-color: #cccccc;
+  border-bottom: 4px solid #cccccc;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.title {
+  font-size: 10px;
+}
+
+.popup-body {
+  background-color: #edcdd1;
+  padding: 40px;
+  text-align: center;
+  font-size: 10px;
+  line-height: 2;
+}
+
+button {
+  margin-top: 20px;
+  font-family: "Press Start 2P", cursive;
+  font-size: 10px;
+  padding: 10px 20px;
+  background-color: #cccccc;
+  border: 2px solid #999999;
+  box-shadow: 3px 3px 0 #999999;
+  cursor: pointer;
+  color: #000;
+}
+
+button:hover {
+  background-color: #bbbbbb;
+}
